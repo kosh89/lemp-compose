@@ -1,0 +1,2 @@
+188.130.241.84 - - [23/Jul/2018:06:03:13 +0000] "GET / HTTP/1.1" 200 24872 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+188.130.241.84 - - [23/Jul/2018:06:03:14 +0000] "GET /favicon.ico HTTP/1.1" 200 24858 "http://139.59.156.211:8080/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
