@@ -8,4 +8,4 @@ docker-compose ps
 ```
 
 #### port 8080 - nginx info
-### port 8183 - phpmyadmin
+#### port 8183 - phpmyadmin
