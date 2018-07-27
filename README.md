@@ -7,5 +7,5 @@ docker-compose up -d
 docker-compose ps
 ```
 
-### port 8080 - nginx info
+#### port 8080 - nginx info
 ### port 8183 - phpmyadmin
