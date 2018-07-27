@@ -1,6 +1,7 @@
-Build:
+## Build:
+```
 docker-compose up -d
-
+```
 Check containers are running:
 docker-compose ps
 
